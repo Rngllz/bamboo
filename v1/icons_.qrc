@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons_bamboo/logo_branca_24.png</file>
+    <file>icons_bamboo/logo_branca_64.png</file>
+    <file>icons_bamboo/logo_branca_512.ico</file>
+    <file>icons_bamboo/cardapio.png</file>
+  </qresource>
+</RCC>

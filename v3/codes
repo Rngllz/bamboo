@@ -1,0 +1,2 @@
+pyside6-uic /Users/lucam/Desktop/GitHub/bamboo/v3/bamboo_v3.ui -o /Users/lucam/Desktop/GitHub/bamboo/v3/ui_main.py
+pyside6-rcc C:/Users/lucam/Desktop/GitHub/bamboo/v3/icons_.qrc -o /Users/lucam/Desktop/GitHub/bamboo/v3/icons_rc.py
